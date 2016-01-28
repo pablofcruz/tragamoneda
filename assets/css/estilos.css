@@ -1,0 +1,53 @@
+body{margin:0; font-family:Arial, Helvetica, sans-serif;}
+a{text-decoration:none;}
+img{border:0;}
+#content{position:relative;max-width:960px; margin:0 auto; background:#E30F26 url(../img/bg.jpg) center top no-repeat; height:1500px; background-size:100%;}
+#content h1{display:none;}
+#content .redes{ float:right; width:78px; margin:17px 50px 0 0;}
+#content .redes span{width:100%; float:left; text-align:center; color:#666666;font-size:12px; font-weight:bold; margin-bottom:7px;}
+#content .logo{float: left; width:183px; margin:32px 0 0 70px;}
+/*Formulario inicio*/
+#content .form{width:50%;float:left; margin:280px 0 0 25%;}
+#content .form .text1{width:70%; margin-left:15%;}
+#content .form h2{float:left; width:70%; margin:50px 0 0 15%;color:#ffffff; font-size:14px; text-transform:uppercase; text-align:center;}
+#content .form ul{padding:0; margin:30px 0 0 0; float:left;}
+#content .form ul li{width:45%; float:left; list-style:none; margin:0 5% 20px 0}
+#content .form ul li input{width:100%; height:30px; border:none; padding-left:10px;}
+#content .form ul li select{width:100%; height:32px; border:none; padding-left:45px; background:#B90C20 url(../img/bg-select.jpg) center no-repeat; background-size:100%; color:#ffffff; }
+#content .form ul li.nombre{width:95%;}
+#content .form .check{ float:left;color:#ffffff; width:20%; margin:0 0 20px 40%;}
+#content .form .check input{width:24px; height:24px; border:none; margin-right:10px;}
+#content .form .btn{width:54%; margin-left:23%;}
+#content .form .legal{width:100%; color:#ffffff; font-size:10px;}
+/*Ruleta winer*/
+#content .ruleta-ganador{width:90%;float:left; margin:280px 0 0 5%;}
+#content .ruleta-ganador h2{float:left; width:100%; margin:30px 0 0 0;color:#ffffff; font-size:24px; text-transform:uppercase; text-align:center;}
+#content .ruleta-ganador .jSlots-wrapper{overflow: hidden;height: 220px;display: inline-block; width:100%; margin-top:18px;}
+#content .ruleta-ganador .fancy{background:url(../img/bg-ruleta.png) center no-repeat; width:65%;height: 260px; float:left;margin:30px 0 0 20px; background-size:100%;}
+#content .ruleta-ganador ul {padding: 0; margin:10px 0 0 0;width: 33%;}
+#content .ruleta-ganador ul li{width:100%;list-style: none; height:80px;}
+#content .ruleta-ganador ul li span{color:#ffffff; font-size:36px; font-weight:bold; width:100%; text-align:center; float:left;}
+#content .ruleta-ganador .slot {float: left;}
+#content .ruleta-ganador .participar{float:left; margin: 2% 0 0 2%; cursor:pointer; width:7%;}
+#content .ruleta-ganador .modelo{float :left; margin:14% 0 0 5%; width:10%;}
+#content .ruleta-ganador .modelo p{width:100%; text-align:center; color:#ffffff;font-size:11px; margin:0 }
+#content .ruleta-ganador .premio{float:left;width:100%; background:url(../img/premio.png) center top no-repeat; height:190px; margin:20px 0 20px 0;}
+/*Ruleta Loser*/
+#content .ruleta-ganador .premio p{width:100%; text-align:center; font-size:26px; font-weight:bold; color:#ffffff;margin:75px 0 0 0; text-transform:uppercase;}
+#content .ruleta-ganador .premio p.intentalo{margin:50px 0 0 0; font-size:18px;}
+#content .ruleta-ganador .btn-2{width:30%; float:left; margin-left:35%;}
+#content .ruleta-ganador .btn-2 img{width:100%;}
+/*Ruleta Winer wiiiiii*/
+#content .ruleta-ganador .premio-on{float:left;width:100%; background:url(../img/premio-on.png) center top no-repeat; height:150px; margin:20px 0 20px 0;}
+#content .ruleta-ganador .premio-on p{width:100%; text-align:center; font-size:26px; font-weight:bold; color:#ffffff;margin:75px 0 0 0; text-transform:uppercase;}
+#content .ruleta-ganador .premio-codigo{width:100%; float:left;}
+#content .ruleta-ganador .premio-codigo p{color:#ffffff; text-align:center; margin:0;}
+#content .ruleta-ganador .premio-codigo p.codigo{ font-size:21px;}
+#content .ruleta-ganador .premio-codigo img{margin: 0 -180px -13px 30px;}
+#content .ruleta-ganador ul.como-canjear{width:64%; margin:5% 0 5% 18%; float:left; background:url(../img/como-canjear.png) center top no-repeat; background-size:100%; height:180px;}
+#content .ruleta-ganador ul.como-canjear li{float:left; width:33%;}
+#content .ruleta-ganador ul.como-canjear li p{color: #ffffff;width: 80%;text-align: center; font-size: 12px; margin-top:55%;}
+#content .ruleta-ganador ul.como-canjear li p.a{margin-left:5%;}
+#content .ruleta-ganador ul.como-canjear li p.b{margin-left:20%;}
+#content .ruleta-ganador ul.como-canjear li p.c{margin-left:25%;}
+#content .ruleta-ganador .legal-2{width:60%; color:#ffffff; font-size:10px; float:left; margin-left:20%;}
